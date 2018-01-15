@@ -14,16 +14,18 @@ El reto consiste en realizar una red social mobile friendly con la ayuda del fra
 
 #### Vista inicial de inicio de sesión o registro
 * Versión de computadora
-![Sin titulo](assets/docs/signin.JPG)
+![Sin titulo](assets/docs/sign.png)
+![Sin titulo](assets/docs/img-carousel2.png)
+
 
 <!-- * Versión de móvil
 ![Sin titulo](assets/docs/sign-in-mobile.jpeg) -->
 
 #### Vista de noticias para ver las actualizaciones de amigos artistas con opción a agregar contacto, publicar, comentar y dar y quitar me gusta
-![Sin titulo](assets/docs/newsfeed-view.png)
+![Sin titulo](assets/docs/muestra3.png)
 
 ### Vista de perfil con opción a agregar contacto, publicar, lugar para subir fotos, comentar y dar y quitar me gusta
-![Sin titulo](assets/docs/profile.JPG)
+![Sin titulo](assets/docs/profile1.JPG)
 
 
 #### Vista para agregar contacto
