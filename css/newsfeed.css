@@ -22,7 +22,7 @@ header a, header h1{
     color: #FFFCEA;
 }
 header h1{
-    font-family: 'Megrim', cursive;
+    font-family: 'Lobster', sans-serif;
     margin-left: 2%;
 }
 header li{
@@ -43,16 +43,16 @@ header li{
 }
 .profile-div img{
    width: 200px;
-   height: 200px;   
+   height: 200px;
 }
 .profile-div p img{
-    margin-top:0; 
+    margin-top:0;
     width:20px;
 }
 /*Newsfeed*/
 .newsfeed{
     background-color: white;
-    border: 0.8px solid rgb(212, 212, 212); 
+    border: 0.8px solid rgb(212, 212, 212);
     border-radius: 2px;
     box-shadow: 6px 7px 6px -4px rgb(212, 212, 212);
 }
@@ -62,7 +62,7 @@ header li{
     background-image: url('../assets/images/playa.jpg');
     background-repeat:no-repeat;
     background-size: cover;
-} 
+}
 .contact{
     width: 80px;
     height: 80px;
@@ -71,10 +71,10 @@ header li{
     margin-bottom: 30px;
     border: 1px solid rgb(212, 212, 212);
     box-shadow: 2px 3px 8px -1px rgb(206, 206, 206);
-    padding-top:20px; 
+    padding-top:20px;
 }
 .newsfeed .form-group{
-    padding: 20px;   
+    padding: 20px;
 }
 .btn {
     background: #A5F2E7;
@@ -88,7 +88,7 @@ header li{
     margin-top: 10px;
     font-family: 'Montserrat', sans-serif;
   }
-  
+
 .btn:hover {
     box-shadow: 1px 1px 5px #555;
     background-color: whitesmoke;
@@ -102,7 +102,7 @@ header li{
     display: inline-block;
     margin-top: 6px;
     padding: 0px;
-}  
+}
 
 .icon-follow{
     width: 20px;
@@ -120,19 +120,19 @@ header li{
     width: 30px;
 }
 .icons span:hover, .follow:hover {
-    box-shadow: 1px 1px 5px #555; 
+    box-shadow: 1px 1px 5px #555;
     border-radius: 50%;
-    padding: 10px; 
-    display: inline-block;  
+    padding: 10px;
+    display: inline-block;
 }
 .comments{
     margin-left: 19%;
 }
 .comment-display-section{
     height: auto;
-    padding-left:8px; 
+    padding-left:8px;
 }
-.parapgrah-comment{   
+.parapgrah-comment{
     width: 100%;
     height: auto;
 }
